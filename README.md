@@ -28,3 +28,33 @@ This dataset contains house sale prices for King County, which includes Seattle.
 
 Download dataset from [here](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/FinalModule_Coursera/data/kc_house_data_NaN.csv)
 
+## Steps followed - 
+
+### Importing data
+
+Import and deatils about data.
+
+### Data Cleaning
+
+Dropped the columns and replaced null values with mean. 
+
+### Exploratory Data Analysis
+
+Count, Box plot, Reg plot and correlation.
+
+### Model Development
+
+1. Fit a linear regression model to predict the price using different variables and measure R^2. 
+2. Created pipelines also.
+
+### Model Evaluation
+
+1. Converted the data into train and test sets.
+2. Fit a ridge regression to avoid overfitting and perform second order polynomial transform.
+
+# Finally, Submitted the notebook after dealing with data cleaning and analyzing. 
+
+
+
+
+
