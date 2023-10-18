@@ -52,7 +52,7 @@ Count, Box plot, Reg plot and correlation.
 1. Converted the data into train and test sets.
 2. Fit a ridge regression to avoid overfitting and perform second order polynomial transform.
 
-## Finally, Submitted the notebook after dealing with data cleaning and analyzing. You can find the notebook attached and here is the [link](https://github.com/khanfaraz334/IBM-data-analysis/blob/main/FINAL_PROJECT_House_Sales_in_King_Count_USA.ipynb)
+### Finally, Submitted the notebook after dealing with data cleaning and analyzing. You can find the notebook attached and here is the [link](https://github.com/khanfaraz334/IBM-data-analysis/blob/main/FINAL_PROJECT_House_Sales_in_King_Count_USA.ipynb)
 
 
 
